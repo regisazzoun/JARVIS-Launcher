@@ -38,4 +38,4 @@ La disponibilité native ne peut pas être mesurée sûrement par une page sans 
 
 Prochaines étapes : publier avec l’accès de création adéquat, activer/vérifier Pages, effectuer la matrice macOS sur les deux clients et compléter les résultats sans secrets. Ne fusionner la PR qu’après accord explicite.
 
-Le compte rendu par mail est traité séparément, sur le compte connecté de l’utilisateur. Une confirmation d’envoi ne sera annoncée qu’après retour positif du service mail ; aucun secret n’est envoyé.
+Compte rendu envoyé le 14 octobre 2026 au compte Gmail connecté de l’utilisateur. Le service a confirmé l’envoi avec les statuts SENT et INBOX. Le mail précise les tests et réserves, le blocage de publication, les commandes de récupération des livrables, l’installation des deux profils et la procédure GitHub. Aucun secret envoyé ; les identifiants internes du message restent hors sources publiques.
