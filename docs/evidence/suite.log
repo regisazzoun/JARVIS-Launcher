@@ -1,0 +1,14 @@
+test_desktop_profiles_persistence_favorites_copy (__main__.LauncherTests.test_desktop_profiles_persistence_favorites_copy) ... ok
+test_generated_shell_syntax_and_ssh_failure_window_kept (__main__.LauncherTests.test_generated_shell_syntax_and_ssh_failure_window_kept) ... ok
+test_guide_keyboard_and_layout (__main__.LauncherTests.test_guide_keyboard_and_layout) ... ok
+test_json_labels_are_text_not_html_and_unknown_actions_refused (__main__.LauncherTests.test_json_labels_are_text_not_html_and_unknown_actions_refused) ... ok
+test_mobile_copy_only_and_no_overflow (__main__.LauncherTests.test_mobile_copy_only_and_no_overflow) ... ok
+test_policy_injection_profiles_and_quote (__main__.LauncherTests.test_policy_injection_profiles_and_quote) ... ok
+test_protocol_request_from_pages_path (__main__.LauncherTests.test_protocol_request_from_pages_path) ... ok
+test_tmux_branches_and_missing_tools_in_isolation (__main__.LauncherTests.test_tmux_branches_and_missing_tools_in_isolation) ... ok
+test_unavailable_storage_clipboard_and_config (__main__.LauncherTests.test_unavailable_storage_clipboard_and_config) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 4.337s
+
+OK
