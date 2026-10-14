@@ -1,0 +1,12 @@
+.test-venv/
+__pycache__/
+test-results/
+dist/
+.DS_Store
+*.app/
+*.local.json
+.env
+.env.*
+*.key
+*.pem
+id_ed25519*
